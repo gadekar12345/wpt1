@@ -1,0 +1,27 @@
+h1{
+    color:brown;
+    background-color: aquamarine;
+    width:20%;
+}
+p{
+    color:blue;
+}
+.p-background{
+    color:bisque;
+    background-color: black;
+    height:5%;
+    width: 15%;
+}
+div>p{
+    background-color: red;
+    color: blueviolet;
+  
+}
+#ol{
+    color:greenyellow;
+    list-style:upper-alpha;
+}
+
+.img-bg{
+
+}

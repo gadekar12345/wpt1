@@ -1,0 +1,10 @@
+.img{
+    height: 20px;
+    width: 20px;
+}
+.container{
+    display:flex;
+    justify-content: end;
+  
+    column-gap: 5px;
+}

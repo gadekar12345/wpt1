@@ -1,0 +1,12 @@
+#divclass{
+    color:blue;
+    height: 500 pixel;
+    width: 500 pixel;
+    font-size: xx-large;
+    background-color: azure;
+    background-image: "https://picsum.photos/";
+}
+div+p{
+    color:darkgoldenrod;
+    font-size: xx-large ;
+}
